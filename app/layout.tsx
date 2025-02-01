@@ -6,7 +6,7 @@ import type React from "react" // Import React
 const geist = Geist({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Your Name - Personal Website",
+  title: "Amirhossein Salmani - Website services",
   description: "Personal website showcasing projects, skills, and more",
 }
 
